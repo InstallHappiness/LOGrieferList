@@ -85,5 +85,23 @@
 		"flags": [
 			"griefer"
 		]
+	},
+	"ecaeb494-42e7-41d2-8bff-85ceb9dc7b5c": {
+		"lastKnownName": "AgreedDig31579",
+		"alts": [
+			"69f6128f-9720-46e7-81c3-b80812a5e972"
+		],
+		"flags": [
+			"griefer"
+		]
+	},
+	"69f6128f-9720-46e7-81c3-b80812a5e972": {
+		"lastKnownName": "p2w_suks",
+		"alts": [
+			"ecaeb494-42e7-41d2-8bff-85ceb9dc7b5c"
+		],
+		"flags": [
+			"griefer"
+		]
 	}
 }
