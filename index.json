@@ -76,7 +76,8 @@
 		"lastKnownName": "Sandwich_Sunday",
 		"alts": [],
 		"flags": [
-			"griefer"
+			"griefer",
+			"mole"
 		]
 	},
 	"11be3e3f-60b8-4323-8a1f-62ae22850ae6": {
@@ -109,6 +110,96 @@
 		"alts": [],
 		"flags": [
 			"lagger"
+		]
+	},
+	"2f2b69af-7651-4960-8379-6df999b88d75": {
+		"lastKnownName": "Airpipe",
+		"alts": [],
+		"flags": [
+			"griefer",
+			"mole"
+		]
+	},
+	"30375eb4-0af4-4d96-b1d5-c1d1aa2ba9ed": {
+		"lastKnownName": "SwaggaDonK",
+		"alts": [],
+		"flags": [
+			"griefer",
+			"mole"
+		]
+	},
+	"2dc026f9-a96c-46e9-b97b-a8d0f2db361d": {
+		"lastKnownName": "enhancements",
+		"alts": [],
+		"flags": [
+			"griefer",
+			"mole"
+		]
+	},
+	"aab4d579-98ae-4879-995e-36bc3a47b61e": {
+		"lastKnownName": "OrangesForSale",
+		"alts": [],
+		"flags": [
+			"griefer"
+		]
+	},
+	"e3b8c5d8-f6d7-46c2-921c-1b7ac81d7f5f": {
+		"lastKnownName": "_supers_",
+		"alts": [],
+		"flags": [
+			"griefer",
+			"mole"
+		]
+	},
+	"f786b01e-d3c1-4b5e-8504-e2c57f67b516": {
+		"lastKnownName": "Zip_Ties",
+		"alts": [],
+		"flags": [
+			"griefer",
+			"mole"
+		]
+	},
+	"17accdc5-0faa-4a82-85e4-eca60bfe6d97": {
+		"lastKnownName": "PiggoPotamus",
+		"alts": [],
+		"flags": [
+			"griefer",
+			"mole"
+		]
+	},
+	"4dcb5edc-ca48-449d-839e-36a86447bb35": {
+		"lastKnownName": "CatgirlJenni",
+		"alts": [],
+		"flags": [
+			"griefer"
+		]
+	},
+	"2a8d870e-dc2c-4b01-b3bd-cd5b1ad156f1": {
+		"lastKnownName": "liiilbob",
+		"alts": [],
+		"flags": [
+			"lagger"
+		]
+	},
+	"cd532ae0-d83e-4040-a7b1-8cd2f64147f1": {
+		"lastKnownName": "ARm8",
+		"alts": [],
+		"flags": [
+			"lagger"
+		]
+	},
+	"33dd97c0-2ef3-46f4-937c-6aea4e3fb0d9": {
+		"lastKnownName": "A2H",
+		"alts": [],
+		"flags": [
+			"griefer"
+		]
+	},
+	"91530b9d-6f8f-4b78-91bb-88f27f63e078": {
+		"lastKnownName": "NojaNoja",
+		"alts": [],
+		"flags": [
+			"griefer"
 		]
 	}
 }
